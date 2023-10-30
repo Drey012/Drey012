@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Drey012
+- 🏫Etec Gru Student
 - 👀 I’m interested in Javascript and Python 
 - 🌱 I’m currently learning Front-end and Back-end
 - 💞️ Portuguese and English speaker
