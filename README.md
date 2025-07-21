@@ -1,4 +1,6 @@
 # Andrey Lima Lopes
+
+
 <img 
     align="left" 
     alt="Portuguese"
@@ -23,6 +25,7 @@ Me chamo Andrey, tenho 17 anos e moro em Guarulhos-SP, estou cursando o 3° ano 
 ---
 
 ### 🤖 Linguagens e Tecnologias
+
 
 <img 
     align="left" 
@@ -122,3 +125,9 @@ Me chamo Andrey, tenho 17 anos e moro em Guarulhos-SP, estou cursando o 3° ano 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<br/>
+
+
+---
+
+![Drey012's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Drey012&theme=outrun&show_icons=true&hide_border=true&layout=compact)
